@@ -1,0 +1,3 @@
+[submodule "meta-bbb"]
+	path = meta-bbb
+	url = https://github.com/jumpnow/meta-bbb.git
